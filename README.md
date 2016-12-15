@@ -7,6 +7,7 @@ Install
 ** https://ghostscript.com/download/gsdnld.html
 * Download and install NAPS2
 ** https://www.naps2.com/download.html
+* Edit install-searchablePDF.reg to change the path of searchablePDF.bat to match your system
 * Double click on install-searchablePDF.reg
 
 Use
