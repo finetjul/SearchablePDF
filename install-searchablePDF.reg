@@ -4,4 +4,4 @@ Windows Registry Editor Version 5.00
 @="Make PDF searchable"
 
 [HKEY_CLASSES_ROOT\*\shell\SearchablePDF\command]
-@="\"C:\\Users\\Julien\\Dropbox\\Administration\\Work\\searchablePDF.bat\" \"%1\""
+@="\"C:\\Users\\Julien\\Dropbox\\Perso\\SearchablePDF\\searchablePDF.bat\" \"%1\""
