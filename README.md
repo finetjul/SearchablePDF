@@ -5,6 +5,10 @@ Install
 =======
 * Download and install ghostscript
 ** https://ghostscript.com/download/gsdnld.html
+* Download standalone ExifTool
+** http://www.sno.phy.queensu.ca/~phil/exiftool/
+* Install exiftool.exe into "C:\Program Files\ExifTool\"
+* Rename exiftool(-k).exe to exiftool.exe
 * Download and install NAPS2
 ** https://www.naps2.com/download.html
 * Edit install-searchablePDF.reg to change the path of searchablePDF.bat to match your system
