@@ -11,6 +11,7 @@ Install
 * Rename exiftool(-k).exe to exiftool.exe
 * Download and install NAPS2
 ** https://www.naps2.com/download.html
+* Open NAPS2 and install French language
 * Edit install-searchablePDF.reg to change the path of searchablePDF.bat to match your system
 * Double click on install-searchablePDF.reg
 
